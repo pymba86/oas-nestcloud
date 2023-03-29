@@ -1,0 +1,9 @@
+{
+  "name": "oas-nestcloud",
+  "version": "1.0.0",
+  "author": "Artem Matveychuk",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
